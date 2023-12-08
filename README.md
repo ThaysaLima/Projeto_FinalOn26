@@ -1,4 +1,4 @@
-## Análise de Participação Feminina no Governo Brasileiro (2016-2022)
+## Participação Feminina no Governo Brasileiro (2016-2022)
 
 ## Contexto
 Este projeto visa realizar uma análise detalhada da participação das mulheres no cenário ministerial do governo brasileiro nos anos de **2016, 2018, 2020 e 2022**. Através desta análise, buscamos compreender e apresentar insights sobre a evolução da representatividade feminina nesse contexto específico.
