@@ -13,9 +13,9 @@ Para atingir nossos objetivos, conduzimos uma análise exploratória de dados, d
 2. Avaliar variações na participação feminina entre diferentes ministérios.
 3. Analisar a distribuição de gênero em cargos de maior destaque.
 
-### Bases Escolhidas
-- **Base 1:** [[TSE Justiça Eleitoral](https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleicao-arquivo/confirmação-conjunto-de-dados?session=9640562874713)]
-- **Base 2:** [[Ministério das Mulheres](https://www.gov.br/mulheres/pt-br/acesso-a-informacao/observatorio-brasil-da-igualdade-de-genero/painel-de-indicadores-2)]
+### Fontes Utilizadas
+- **Fonte 1:** [[TSE Justiça Eleitoral](https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleicao-arquivo/confirmação-conjunto-de-dados?session=9640562874713)]
+- **Fonte 2:** [[Ministério das Mulheres](https://www.gov.br/mulheres/pt-br/acesso-a-informacao/observatorio-brasil-da-igualdade-de-genero/painel-de-indicadores-2)]
 
 ## Ferramentas Utilizadas
 Para a execução deste projeto, empregamos as seguintes ferramentas:
