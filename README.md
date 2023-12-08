@@ -25,6 +25,6 @@ Para a execução deste projeto, empregamos as seguintes ferramentas:
 - Bibliotecas de Análise de Dados (pandas, numpy, seaborn, matplotlib.pyplot.)
 - Tableau para visualização de dados
 
-Para acessar as visualizações interativas geradas no Tableau, [clique aqui](link_do_seu_dashboard_no_Tableau).
+Para acessar as visualizações interativas geradas no Tableau, [clique aqui](https://public.tableau.com/app/profile/thaysa.lima/viz/ProjetoFinal-On26/1inicio?publish=yes).
 
 Fique à vontade para explorar as informações e entre em contato caso tenha sugestões ou dúvidas. A contribuição de todos é valorizada para aprimorar continuamente este projeto.
